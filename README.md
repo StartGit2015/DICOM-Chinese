@@ -26,6 +26,7 @@ The Chinese version of DICOM 3.0 Standard.<br>
 <b><font face="Microsoft YaHei" color=blue size=4>备注：</font></b><br>
 博文专栏中介绍过DICOM标准中文版书籍的协作模式[DICOM：开源书籍之『DICOM标准中文版』启动计划](http://blog.csdn.net/zssureqh/article/details/46487325)，之所以选择[看云平台](http://www.kancloud.cn/explore)目的是希望<b>更多的</b>、<b>各行各业的人员</b>加入，例如<u>英语专业</u>、<u>非医疗从业者</u>都十分欢迎，对翻译中的<b>语法</b>、**语言表述**，甚至**专业知识点**进行评判修改。<br>
 对于日常工作很少使用版本管理工具的人员来说，看云的操作既简捷明了，又能很好的实现多人协作的目的。当然，如果您是一名IT从业者，已熟练使用SVN和GIT各种版本工具的人员，可以通过**Github**直接发起**Pull requests**请求，待审核通过后合并到master主线中。<br>
+在本机可以使用Github for Windows客户端操作，也可以使用git命令行操作(Windows环境下需要安装msysgit）。<br>
 
 <br>
 <br>
